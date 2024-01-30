@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://www.codewars.com/users/vitaliksamusenko/badges/large
+[![codewars]([https://www.codewars.com/users/vitaliksamusenko/badges/large])](https://www.codewars.com/users/vitaliksamusenko)   
 <!--
 **VitalikSamusenko/vitaliksamusenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
