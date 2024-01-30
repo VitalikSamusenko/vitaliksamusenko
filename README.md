@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![large](https://www.codewars.com/users/vitaliksamusenko/badges/large)](https://www.codewars.com/users/vitaliksamusenko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliksamusenko&layout=compact&theme=vision-friendly-dark)](https://github.com/vitaliksamusenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliksamusenko&layout=compact&theme=vision-friendly-dark)]
 <!--
 **VitalikSamusenko/vitaliksamusenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
